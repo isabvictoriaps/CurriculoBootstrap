@@ -299,3 +299,10 @@ body {
       width: 70% !important;
     }
   }
+
+  @media only screen and (max-width: 540px){
+      .profile-img{
+          width: 80%;
+          height: 90%;
+      }
+  }
