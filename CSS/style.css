@@ -6,7 +6,7 @@ body {
 
 #header{
     height: 100vh;
-    background-image: url(/img/photo-1553095066-5014bc7b7f2d.jfif);
+    background-image: url(../img/photo-1553095066-5014bc7b7f2d.jfif);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -292,3 +292,10 @@ body {
     width: 80px;
     transition: 1s;
 }
+
+
+@media only screen and (max-width: 1286px) {
+    .card {
+      width: 70% !important;
+    }
+  }
