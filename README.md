@@ -2,7 +2,7 @@
 
 Olá, tudo bem? ✨  <br> <br>
 
-💗 Meu nome é Isabelle Victoria, tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas na FIAP. <br> <br>
+💗 Meu nome é Isabelle Victoria, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas na FIAP. <br> <br>
 
 💗 Atualmente, busco desenvolver minhas habilidades na área da tecnologia, que foi onde descobri minha paixão através do curso #OTechTaOn da instituição #TeuFuturo. Nessa formação, o foco foi no desenvolvimento Web, portanto, adquiri conhecimentos em javascript, HTML e CSS.  <br> <br>
 
